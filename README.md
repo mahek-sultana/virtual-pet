@@ -1,2 +1,1 @@
-# virtual-pet
-c-36
+# virtual-pett
